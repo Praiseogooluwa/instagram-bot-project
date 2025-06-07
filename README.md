@@ -60,6 +60,7 @@ npm install puppeteer
 ## 5. Run the Bot
 node bot.js
 
+
 ⚠️ Disclaimer
 This project is intended strictly for educational and research purposes. Automated interactions with Instagram may violate their terms of service. Use responsibly and avoid targeting real users.
 
