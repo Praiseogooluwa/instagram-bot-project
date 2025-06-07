@@ -1,6 +1,4 @@
 [
-  {
-    "type": "follow",
-    "target": "praiseogooluwabakare"
-  }
+  { "type": "follow", "target": "target_username" },
+  { "type": "like", "postUrl": "https://www.instagram.com/p/POST_ID/" }
 ]
