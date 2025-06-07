@@ -66,5 +66,7 @@ This project is intended strictly for educational and research purposes. Automat
 💡 Author
 ## Isaiah Praise Ogooluwa Bakare 
 Linkedin- https://www.linkedin.com/in/praise-ogooluwa/
+
 website - https://praiseogooluwa.github.io/
+
 Resume  - https://drive.google.com/file/d/1etzeWgn6YOaS27DFApJsd9_Xeles273Y/view?usp=sharing
