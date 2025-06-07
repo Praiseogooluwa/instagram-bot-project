@@ -21,11 +21,17 @@ This is a Puppeteer-based Instagram automation bot designed to simulate human-li
 
 /instagram-bot
 │
+
 ├── bot.js # Main automation script
+
 ├── accounts.json # List of Instagram test accounts
+
 ├── tasks.json # List of follow/like tasks
+
 ├── sessions/ # Stores session cookies per account
+
 ├── README.md # This file
+
 └── .gitignore # Ignore node_modules, sessions, etc.
 
 
@@ -46,6 +52,7 @@ npm install puppeteer
 ### Create or update the accounts.json file with login details:
 [
   { "username": "your_test_account1", "password": "your_password1" },
+  
   { "username": "your_test_account2", "password": "your_password2" }
 ]
 
@@ -54,6 +61,7 @@ npm install puppeteer
 ### Edit tasks.json like this:
 [
   { "type": "follow", "target": "target_username" },
+  
   { "type": "like", "postUrl": "https://www.instagram.com/p/POST_ID/" }
 ]
 
